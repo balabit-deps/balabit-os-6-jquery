@@ -1,3 +1,9 @@
+jquery (3.2.1-2) balabit-os-6.0; urgency=low
+
+  * Use simplifyed name and forget links
+
+ -- Balazs Benedek <balazs.benedek@balabit.com>  Fri, 19 Jan 2018 14:03:00 +0100
+
 jquery (3.2.1-1) balabit-os-6.0; urgency=low
 
   * Updated jquery to v3.2.1
